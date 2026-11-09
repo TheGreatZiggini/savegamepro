@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AddSurrogateForType method" Url="html/M_SavegamePro_Savegame_AddSurrogateForType.htm" />
+  <HelpKINode Title="CanBeSerialized method" Url="html/Overload_SavegamePro_Extensions_TypeExtensions_CanBeSerialized.htm" />
+  <HelpKINode Title="CanSerialize method" Url="html/M_SavegamePro_Extensions_SurrogateSelectorExtensions_CanSerialize.htm" />
+  <HelpKINode Title="Clear method" Url="html/M_SavegamePro_Savegame_Clear.htm" />
+  <HelpKINode Title="DataContainer class">
+    <HelpKINode Title="DataContainer Class" Url="html/T_SavegamePro_DataContainer.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_SavegamePro_DataContainer__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_SavegamePro_DataContainer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_DataContainer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataContainer.DataContainer constructor" Url="html/Overload_SavegamePro_DataContainer__ctor.htm" />
+  <HelpKINode Title="DataContainer.Load(Of T) method" Url="html/M_SavegamePro_DataContainer_Load__1.htm" />
+  <HelpKINode Title="DataContainer.Load&lt;T&gt; method" Url="html/M_SavegamePro_DataContainer_Load__1.htm" />
+  <HelpKINode Title="DataContainer.selector field" Url="html/F_SavegamePro_DataContainer_selector.htm" />
+  <HelpKINode Title="DefaultSurrogate class">
+    <HelpKINode Title="DefaultSurrogate Class" Url="html/T_SavegamePro_Surrogates_DefaultSurrogate.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_SavegamePro_Surrogates_DefaultSurrogate__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_SavegamePro_Surrogates_DefaultSurrogate.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_Surrogates_DefaultSurrogate.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultSurrogate.DefaultSurrogate constructor" Url="html/Overload_SavegamePro_Surrogates_DefaultSurrogate__ctor.htm" />
+  <HelpKINode Title="DefaultSurrogate.GetObjectData method" Url="html/M_SavegamePro_Surrogates_DefaultSurrogate_GetObjectData.htm" />
+  <HelpKINode Title="DefaultSurrogate.mySelector field" Url="html/F_SavegamePro_Surrogates_DefaultSurrogate_mySelector.htm" />
+  <HelpKINode Title="DefaultSurrogate.SetObjectData method" Url="html/M_SavegamePro_Surrogates_DefaultSurrogate_SetObjectData.htm" />
+  <HelpKINode Title="DeleteFromDisk method" Url="html/M_SavegamePro_Savegame_DeleteFromDisk.htm" />
+  <HelpKINode Title="FileExtension property" Url="html/P_SavegamePro_SavegameSettings_FileExtension.htm" />
+  <HelpKINode Title="Filename property" Url="html/P_SavegamePro_SavegameSettings_Filename.htm" />
+  <HelpKINode Title="Filepath property" Url="html/P_SavegamePro_SavegameSettings_Filepath.htm" />
+  <HelpKINode Title="Full enumeration member" Url="html/T_SavegamePro_LogLevel.htm" />
+  <HelpKINode Title="FullFilePath property">
+    <HelpKINode Title="Savegame.FullFilePath Property " Url="html/P_SavegamePro_Savegame_FullFilePath.htm" />
+    <HelpKINode Title="SavegameSettings.FullFilePath Property " Url="html/P_SavegamePro_SavegameSettings_FullFilePath.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FullFilePathSurrogates property" Url="html/P_SavegamePro_Savegame_FullFilePathSurrogates.htm" />
+  <HelpKINode Title="GetObjectData method">
+    <HelpKINode Title="DefaultSurrogate.GetObjectData Method " Url="html/M_SavegamePro_Surrogates_DefaultSurrogate_GetObjectData.htm" />
+    <HelpKINode Title="QuaternionSurrogate.GetObjectData Method " Url="html/M_SavegamePro_Surrogates_QuaternionSurrogate_GetObjectData.htm" />
+    <HelpKINode Title="Vector2Surrogate.GetObjectData Method " Url="html/M_SavegamePro_Surrogates_Vector2Surrogate_GetObjectData.htm" />
+    <HelpKINode Title="Vector3Surrogate.GetObjectData Method " Url="html/M_SavegamePro_Surrogates_Vector3Surrogate_GetObjectData.htm" />
+    <HelpKINode Title="Vector4Surrogate.GetObjectData Method " Url="html/M_SavegamePro_Surrogates_Vector4Surrogate_GetObjectData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HasSurrogate method" Url="html/M_SavegamePro_Extensions_SurrogateSelectorExtensions_HasSurrogate.htm" />
+  <HelpKINode Title="Key property" Url="html/P_SavegamePro_KeyValuePair_2_Key.htm" />
+  <HelpKINode Title="Keys enumeration member" Url="html/T_SavegamePro_LogLevel.htm" />
+  <HelpKINode Title="KeyValuePair(Of K, V) structure">
+    <HelpKINode Title="KeyValuePair(K, V) Structure" Url="html/T_SavegamePro_KeyValuePair_2.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SavegamePro_KeyValuePair_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_KeyValuePair_2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SavegamePro_KeyValuePair_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KeyValuePair(Of K, V).Key property" Url="html/P_SavegamePro_KeyValuePair_2_Key.htm" />
+  <HelpKINode Title="KeyValuePair(Of K, V).KeyValuePair constructor" Url="html/M_SavegamePro_KeyValuePair_2__ctor.htm" />
+  <HelpKINode Title="KeyValuePair(Of K, V).Value property" Url="html/P_SavegamePro_KeyValuePair_2_Value.htm" />
+  <HelpKINode Title="KeyValuePair&lt;K, V&gt; structure">
+    <HelpKINode Title="KeyValuePair(K, V) Structure" Url="html/T_SavegamePro_KeyValuePair_2.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SavegamePro_KeyValuePair_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_KeyValuePair_2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SavegamePro_KeyValuePair_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KeyValuePair&lt;K, V&gt;.Key property" Url="html/P_SavegamePro_KeyValuePair_2_Key.htm" />
+  <HelpKINode Title="KeyValuePair&lt;K, V&gt;.KeyValuePair constructor" Url="html/M_SavegamePro_KeyValuePair_2__ctor.htm" />
+  <HelpKINode Title="KeyValuePair&lt;K, V&gt;.Value property" Url="html/P_SavegamePro_KeyValuePair_2_Value.htm" />
+  <HelpKINode Title="Load method">
+    <HelpKINode Title="Savegame.Load Method " Url="html/Overload_SavegamePro_Savegame_Load.htm" />
+    <HelpKINode Title="SavegameController.Load Method " Url="html/M_SavegamePro_Components_SavegameController_Load.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Load(Of T) method" Url="html/M_SavegamePro_DataContainer_Load__1.htm" />
+  <HelpKINode Title="Load&lt;T&gt; method" Url="html/M_SavegamePro_DataContainer_Load__1.htm" />
+  <HelpKINode Title="loadKeyCode field" Url="html/F_SavegamePro_Components_SavegameController_loadKeyCode.htm" />
+  <HelpKINode Title="Logging field" Url="html/F_SavegamePro_Savegame_Logging.htm" />
+  <HelpKINode Title="LogLevel enumeration" Url="html/T_SavegamePro_LogLevel.htm" />
+  <HelpKINode Title="mySelector field" Url="html/F_SavegamePro_Surrogates_DefaultSurrogate_mySelector.htm" />
+  <HelpKINode Title="None enumeration member" Url="html/T_SavegamePro_LogLevel.htm" />
+  <HelpKINode Title="QuaternionSurrogate class">
+    <HelpKINode Title="QuaternionSurrogate Class" Url="html/T_SavegamePro_Surrogates_QuaternionSurrogate.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SavegamePro_Surrogates_QuaternionSurrogate__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_Surrogates_QuaternionSurrogate.htm" />
+  </HelpKINode>
+  <HelpKINode Title="QuaternionSurrogate.GetObjectData method" Url="html/M_SavegamePro_Surrogates_QuaternionSurrogate_GetObjectData.htm" />
+  <HelpKINode Title="QuaternionSurrogate.QuaternionSurrogate constructor" Url="html/M_SavegamePro_Surrogates_QuaternionSurrogate__ctor.htm" />
+  <HelpKINode Title="QuaternionSurrogate.SetObjectData method" Url="html/M_SavegamePro_Surrogates_QuaternionSurrogate_SetObjectData.htm" />
+  <HelpKINode Title="ReadFromDisk method" Url="html/M_SavegamePro_Savegame_ReadFromDisk.htm" />
+  <HelpKINode Title="ReadingWriting enumeration member" Url="html/T_SavegamePro_LogLevel.htm" />
+  <HelpKINode Title="Remove method" Url="html/M_SavegamePro_Savegame_Remove.htm" />
+  <HelpKINode Title="Save method">
+    <HelpKINode Title="Savegame.Save Method " Url="html/M_SavegamePro_Savegame_Save.htm" />
+    <HelpKINode Title="SavegameController.Save Method " Url="html/M_SavegamePro_Components_SavegameController_Save.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Savegame class">
+    <HelpKINode Title="Savegame Class" Url="html/T_SavegamePro_Savegame.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_SavegamePro_Savegame__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_SavegamePro_Savegame.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_Savegame.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SavegamePro_Savegame.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Savegame.AddSurrogateForType method" Url="html/M_SavegamePro_Savegame_AddSurrogateForType.htm" />
+  <HelpKINode Title="Savegame.Clear method" Url="html/M_SavegamePro_Savegame_Clear.htm" />
+  <HelpKINode Title="Savegame.DeleteFromDisk method" Url="html/M_SavegamePro_Savegame_DeleteFromDisk.htm" />
+  <HelpKINode Title="Savegame.FullFilePath property" Url="html/P_SavegamePro_Savegame_FullFilePath.htm" />
+  <HelpKINode Title="Savegame.FullFilePathSurrogates property" Url="html/P_SavegamePro_Savegame_FullFilePathSurrogates.htm" />
+  <HelpKINode Title="Savegame.Load method" Url="html/Overload_SavegamePro_Savegame_Load.htm" />
+  <HelpKINode Title="Savegame.Logging field" Url="html/F_SavegamePro_Savegame_Logging.htm" />
+  <HelpKINode Title="Savegame.ReadFromDisk method" Url="html/M_SavegamePro_Savegame_ReadFromDisk.htm" />
+  <HelpKINode Title="Savegame.Remove method" Url="html/M_SavegamePro_Savegame_Remove.htm" />
+  <HelpKINode Title="Savegame.Save method" Url="html/M_SavegamePro_Savegame_Save.htm" />
+  <HelpKINode Title="Savegame.Savegame constructor" Url="html/Overload_SavegamePro_Savegame__ctor.htm" />
+  <HelpKINode Title="Savegame.SurrogateSelector property" Url="html/P_SavegamePro_Savegame_SurrogateSelector.htm" />
+  <HelpKINode Title="Savegame.WriteToDisk method" Url="html/M_SavegamePro_Savegame_WriteToDisk.htm" />
+  <HelpKINode Title="SavegameController class">
+    <HelpKINode Title="SavegameController Class" Url="html/T_SavegamePro_Components_SavegameController.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SavegamePro_Components_SavegameController__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_SavegamePro_Components_SavegameController.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_Components_SavegameController.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SavegamePro_Components_SavegameController.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SavegameController.Load method" Url="html/M_SavegamePro_Components_SavegameController_Load.htm" />
+  <HelpKINode Title="SavegameController.loadKeyCode field" Url="html/F_SavegamePro_Components_SavegameController_loadKeyCode.htm" />
+  <HelpKINode Title="SavegameController.Save method" Url="html/M_SavegamePro_Components_SavegameController_Save.htm" />
+  <HelpKINode Title="SavegameController.SavegameController constructor" Url="html/M_SavegamePro_Components_SavegameController__ctor.htm" />
+  <HelpKINode Title="SavegameController.savegameFilename field" Url="html/F_SavegamePro_Components_SavegameController_savegameFilename.htm" />
+  <HelpKINode Title="SavegameController.saveKeyCode field" Url="html/F_SavegamePro_Components_SavegameController_saveKeyCode.htm" />
+  <HelpKINode Title="savegameFilename field" Url="html/F_SavegamePro_Components_SavegameController_savegameFilename.htm" />
+  <HelpKINode Title="SavegamePro namespace" Url="html/N_SavegamePro.htm" />
+  <HelpKINode Title="SavegamePro.Components namespace" Url="html/N_SavegamePro_Components.htm" />
+  <HelpKINode Title="SavegamePro.Components.SavegameController class" Url="html/T_SavegamePro_Components_SavegameController.htm" />
+  <HelpKINode Title="SavegamePro.DataContainer class" Url="html/T_SavegamePro_DataContainer.htm" />
+  <HelpKINode Title="SavegamePro.Extensions namespace" Url="html/N_SavegamePro_Extensions.htm" />
+  <HelpKINode Title="SavegamePro.Extensions.SurrogateSelectorExtensions class" Url="html/T_SavegamePro_Extensions_SurrogateSelectorExtensions.htm" />
+  <HelpKINode Title="SavegamePro.Extensions.TypeExtensions class" Url="html/T_SavegamePro_Extensions_TypeExtensions.htm" />
+  <HelpKINode Title="SavegamePro.KeyValuePair(Of K, V) structure" Url="html/T_SavegamePro_KeyValuePair_2.htm" />
+  <HelpKINode Title="SavegamePro.KeyValuePair&lt;K, V&gt; structure" Url="html/T_SavegamePro_KeyValuePair_2.htm" />
+  <HelpKINode Title="SavegamePro.LogLevel enumeration" Url="html/T_SavegamePro_LogLevel.htm" />
+  <HelpKINode Title="SavegamePro.Savegame class" Url="html/T_SavegamePro_Savegame.htm" />
+  <HelpKINode Title="SavegamePro.SavegameSettings class" Url="html/T_SavegamePro_SavegameSettings.htm" />
+  <HelpKINode Title="SavegamePro.Surrogates namespace" Url="html/N_SavegamePro_Surrogates.htm" />
+  <HelpKINode Title="SavegamePro.Surrogates.DefaultSurrogate class" Url="html/T_SavegamePro_Surrogates_DefaultSurrogate.htm" />
+  <HelpKINode Title="SavegamePro.Surrogates.QuaternionSurrogate class" Url="html/T_SavegamePro_Surrogates_QuaternionSurrogate.htm" />
+  <HelpKINode Title="SavegamePro.Surrogates.UnitySurrogateSelector class" Url="html/T_SavegamePro_Surrogates_UnitySurrogateSelector.htm" />
+  <HelpKINode Title="SavegamePro.Surrogates.Vector2Surrogate class" Url="html/T_SavegamePro_Surrogates_Vector2Surrogate.htm" />
+  <HelpKINode Title="SavegamePro.Surrogates.Vector3Surrogate class" Url="html/T_SavegamePro_Surrogates_Vector3Surrogate.htm" />
+  <HelpKINode Title="SavegamePro.Surrogates.Vector4Surrogate class" Url="html/T_SavegamePro_Surrogates_Vector4Surrogate.htm" />
+  <HelpKINode Title="SavegameSettings class">
+    <HelpKINode Title="SavegameSettings Class" Url="html/T_SavegamePro_SavegameSettings.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_SavegamePro_SavegameSettings__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_SavegameSettings.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SavegamePro_SavegameSettings.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SavegameSettings.FileExtension property" Url="html/P_SavegamePro_SavegameSettings_FileExtension.htm" />
+  <HelpKINode Title="SavegameSettings.Filename property" Url="html/P_SavegamePro_SavegameSettings_Filename.htm" />
+  <HelpKINode Title="SavegameSettings.Filepath property" Url="html/P_SavegamePro_SavegameSettings_Filepath.htm" />
+  <HelpKINode Title="SavegameSettings.FullFilePath property" Url="html/P_SavegamePro_SavegameSettings_FullFilePath.htm" />
+  <HelpKINode Title="SavegameSettings.SavegameSettings constructor" Url="html/Overload_SavegamePro_SavegameSettings__ctor.htm" />
+  <HelpKINode Title="SavegameSettings.WriteOnSave property" Url="html/P_SavegamePro_SavegameSettings_WriteOnSave.htm" />
+  <HelpKINode Title="saveKeyCode field" Url="html/F_SavegamePro_Components_SavegameController_saveKeyCode.htm" />
+  <HelpKINode Title="selector field" Url="html/F_SavegamePro_DataContainer_selector.htm" />
+  <HelpKINode Title="Serialization enumeration member" Url="html/T_SavegamePro_LogLevel.htm" />
+  <HelpKINode Title="SetObjectData method">
+    <HelpKINode Title="DefaultSurrogate.SetObjectData Method " Url="html/M_SavegamePro_Surrogates_DefaultSurrogate_SetObjectData.htm" />
+    <HelpKINode Title="QuaternionSurrogate.SetObjectData Method " Url="html/M_SavegamePro_Surrogates_QuaternionSurrogate_SetObjectData.htm" />
+    <HelpKINode Title="Vector2Surrogate.SetObjectData Method " Url="html/M_SavegamePro_Surrogates_Vector2Surrogate_SetObjectData.htm" />
+    <HelpKINode Title="Vector3Surrogate.SetObjectData Method " Url="html/M_SavegamePro_Surrogates_Vector3Surrogate_SetObjectData.htm" />
+    <HelpKINode Title="Vector4Surrogate.SetObjectData Method " Url="html/M_SavegamePro_Surrogates_Vector4Surrogate_SetObjectData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ShouldBeSerialized method" Url="html/Overload_SavegamePro_Extensions_TypeExtensions_ShouldBeSerialized.htm" />
+  <HelpKINode Title="SurrogateSelector property" Url="html/P_SavegamePro_Savegame_SurrogateSelector.htm" />
+  <HelpKINode Title="SurrogateSelectorExtensions class">
+    <HelpKINode Title="SurrogateSelectorExtensions Class" Url="html/T_SavegamePro_Extensions_SurrogateSelectorExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_Extensions_SurrogateSelectorExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SurrogateSelectorExtensions.CanSerialize method" Url="html/M_SavegamePro_Extensions_SurrogateSelectorExtensions_CanSerialize.htm" />
+  <HelpKINode Title="SurrogateSelectorExtensions.HasSurrogate method" Url="html/M_SavegamePro_Extensions_SurrogateSelectorExtensions_HasSurrogate.htm" />
+  <HelpKINode Title="TypeExtensions class">
+    <HelpKINode Title="TypeExtensions Class" Url="html/T_SavegamePro_Extensions_TypeExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_Extensions_TypeExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TypeExtensions.CanBeSerialized method" Url="html/Overload_SavegamePro_Extensions_TypeExtensions_CanBeSerialized.htm" />
+  <HelpKINode Title="TypeExtensions.ShouldBeSerialized method" Url="html/Overload_SavegamePro_Extensions_TypeExtensions_ShouldBeSerialized.htm" />
+  <HelpKINode Title="UnitySurrogateSelector class">
+    <HelpKINode Title="UnitySurrogateSelector Class" Url="html/T_SavegamePro_Surrogates_UnitySurrogateSelector.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SavegamePro_Surrogates_UnitySurrogateSelector__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_Surrogates_UnitySurrogateSelector.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UnitySurrogateSelector.UnitySurrogateSelector constructor" Url="html/M_SavegamePro_Surrogates_UnitySurrogateSelector__ctor.htm" />
+  <HelpKINode Title="Value property" Url="html/P_SavegamePro_KeyValuePair_2_Value.htm" />
+  <HelpKINode Title="Vector2Surrogate class">
+    <HelpKINode Title="Vector2Surrogate Class" Url="html/T_SavegamePro_Surrogates_Vector2Surrogate.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SavegamePro_Surrogates_Vector2Surrogate__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_Surrogates_Vector2Surrogate.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Vector2Surrogate.GetObjectData method" Url="html/M_SavegamePro_Surrogates_Vector2Surrogate_GetObjectData.htm" />
+  <HelpKINode Title="Vector2Surrogate.SetObjectData method" Url="html/M_SavegamePro_Surrogates_Vector2Surrogate_SetObjectData.htm" />
+  <HelpKINode Title="Vector2Surrogate.Vector2Surrogate constructor" Url="html/M_SavegamePro_Surrogates_Vector2Surrogate__ctor.htm" />
+  <HelpKINode Title="Vector3Surrogate class">
+    <HelpKINode Title="Vector3Surrogate Class" Url="html/T_SavegamePro_Surrogates_Vector3Surrogate.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SavegamePro_Surrogates_Vector3Surrogate__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_Surrogates_Vector3Surrogate.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Vector3Surrogate.GetObjectData method" Url="html/M_SavegamePro_Surrogates_Vector3Surrogate_GetObjectData.htm" />
+  <HelpKINode Title="Vector3Surrogate.SetObjectData method" Url="html/M_SavegamePro_Surrogates_Vector3Surrogate_SetObjectData.htm" />
+  <HelpKINode Title="Vector3Surrogate.Vector3Surrogate constructor" Url="html/M_SavegamePro_Surrogates_Vector3Surrogate__ctor.htm" />
+  <HelpKINode Title="Vector4Surrogate class">
+    <HelpKINode Title="Vector4Surrogate Class" Url="html/T_SavegamePro_Surrogates_Vector4Surrogate.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SavegamePro_Surrogates_Vector4Surrogate__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SavegamePro_Surrogates_Vector4Surrogate.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Vector4Surrogate.GetObjectData method" Url="html/M_SavegamePro_Surrogates_Vector4Surrogate_GetObjectData.htm" />
+  <HelpKINode Title="Vector4Surrogate.SetObjectData method" Url="html/M_SavegamePro_Surrogates_Vector4Surrogate_SetObjectData.htm" />
+  <HelpKINode Title="Vector4Surrogate.Vector4Surrogate constructor" Url="html/M_SavegamePro_Surrogates_Vector4Surrogate__ctor.htm" />
+  <HelpKINode Title="WriteOnSave property" Url="html/P_SavegamePro_SavegameSettings_WriteOnSave.htm" />
+  <HelpKINode Title="WriteToDisk method" Url="html/M_SavegamePro_Savegame_WriteToDisk.htm" />
+</HelpKI>

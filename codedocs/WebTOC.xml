@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="ac47bb5d-2e34-482a-9b7c-8d78b0aa4b3e" Title="SavegamePro Namespaces" Url="html/G_SavegamePro.htm">
+    <HelpTOCNode Id="279e6125-ba19-4cdb-9e6e-f2da3b6d652b" Title="SavegamePro" Url="html/N_SavegamePro.htm">
+      <HelpTOCNode Id="11007bb0-ebce-4653-9124-c6e20e1864d6" Title="DataContainer Class" Url="html/T_SavegamePro_DataContainer.htm">
+        <HelpTOCNode Id="5a444db3-db3b-4e1d-8953-095b6159bbe1" Title="DataContainer Constructor " Url="html/Overload_SavegamePro_DataContainer__ctor.htm">
+          <HelpTOCNode Title="DataContainer Constructor (Object)" Url="html/M_SavegamePro_DataContainer__ctor.htm" />
+          <HelpTOCNode Title="DataContainer Constructor (Object, ISurrogateSelector)" Url="html/M_SavegamePro_DataContainer__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fe33399a-ce74-48ca-a9ea-b2de1a117701" Title="DataContainer Methods" Url="html/Methods_T_SavegamePro_DataContainer.htm">
+          <HelpTOCNode Title="Load(T) Method " Url="html/M_SavegamePro_DataContainer_Load__1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="13092081-8c36-46ea-a057-276d297cef34" Title="DataContainer Fields" Url="html/Fields_T_SavegamePro_DataContainer.htm">
+          <HelpTOCNode Title="selector Field" Url="html/F_SavegamePro_DataContainer_selector.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="3a27db28-446d-40ad-8726-13b74fa25664" Title="KeyValuePair(K, V) Structure" Url="html/T_SavegamePro_KeyValuePair_2.htm">
+        <HelpTOCNode Title="KeyValuePair(K, V) Constructor " Url="html/M_SavegamePro_KeyValuePair_2__ctor.htm" />
+        <HelpTOCNode Id="d5491038-5a63-41b0-8884-5145f149ae52" Title="KeyValuePair(K, V) Properties" Url="html/Properties_T_SavegamePro_KeyValuePair_2.htm">
+          <HelpTOCNode Title="Key Property " Url="html/P_SavegamePro_KeyValuePair_2_Key.htm" />
+          <HelpTOCNode Title="Value Property " Url="html/P_SavegamePro_KeyValuePair_2_Value.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="KeyValuePair(K, V) Methods" Url="html/Methods_T_SavegamePro_KeyValuePair_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="LogLevel Enumeration" Url="html/T_SavegamePro_LogLevel.htm" />
+      <HelpTOCNode Id="fe50ade2-8806-4601-94ca-b768048ec264" Title="Savegame Class" Url="html/T_SavegamePro_Savegame.htm">
+        <HelpTOCNode Id="3d02528a-2264-4154-bd23-a550f567ced5" Title="Savegame Constructor " Url="html/Overload_SavegamePro_Savegame__ctor.htm">
+          <HelpTOCNode Title="Savegame Constructor (SavegameSettings)" Url="html/M_SavegamePro_Savegame__ctor.htm" />
+          <HelpTOCNode Title="Savegame Constructor (SavegameSettings, SurrogateSelector)" Url="html/M_SavegamePro_Savegame__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="93111812-f836-43d5-ba89-a58cd7f24ccf" Title="Savegame Properties" Url="html/Properties_T_SavegamePro_Savegame.htm">
+          <HelpTOCNode Title="FullFilePath Property " Url="html/P_SavegamePro_Savegame_FullFilePath.htm" />
+          <HelpTOCNode Title="FullFilePathSurrogates Property " Url="html/P_SavegamePro_Savegame_FullFilePathSurrogates.htm" />
+          <HelpTOCNode Title="SurrogateSelector Property " Url="html/P_SavegamePro_Savegame_SurrogateSelector.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="91d92d71-70a3-4c4a-af48-a4e7ac7a2531" Title="Savegame Methods" Url="html/Methods_T_SavegamePro_Savegame.htm">
+          <HelpTOCNode Title="AddSurrogateForType Method " Url="html/M_SavegamePro_Savegame_AddSurrogateForType.htm" />
+          <HelpTOCNode Title="Clear Method " Url="html/M_SavegamePro_Savegame_Clear.htm" />
+          <HelpTOCNode Title="DeleteFromDisk Method " Url="html/M_SavegamePro_Savegame_DeleteFromDisk.htm" />
+          <HelpTOCNode Id="fa702156-5db9-4e84-957a-131b8106f878" Title="Load Method " Url="html/Overload_SavegamePro_Savegame_Load.htm">
+            <HelpTOCNode Title="Load(T) Method (String)" Url="html/M_SavegamePro_Savegame_Load__1.htm" />
+            <HelpTOCNode Title="Load(T) Method (String, T)" Url="html/M_SavegamePro_Savegame_Load__1_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ReadFromDisk Method " Url="html/M_SavegamePro_Savegame_ReadFromDisk.htm" />
+          <HelpTOCNode Title="Remove Method " Url="html/M_SavegamePro_Savegame_Remove.htm" />
+          <HelpTOCNode Title="Save Method " Url="html/M_SavegamePro_Savegame_Save.htm" />
+          <HelpTOCNode Title="WriteToDisk Method " Url="html/M_SavegamePro_Savegame_WriteToDisk.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5f27248d-4af8-4d8b-9c73-afac5594f4d8" Title="Savegame Fields" Url="html/Fields_T_SavegamePro_Savegame.htm">
+          <HelpTOCNode Title="Logging Field" Url="html/F_SavegamePro_Savegame_Logging.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6f274392-a350-404c-bfce-60b13be7ac13" Title="SavegameSettings Class" Url="html/T_SavegamePro_SavegameSettings.htm">
+        <HelpTOCNode Id="e566ef35-375d-4466-be5a-48300c2d6aaa" Title="SavegameSettings Constructor " Url="html/Overload_SavegamePro_SavegameSettings__ctor.htm">
+          <HelpTOCNode Title="SavegameSettings Constructor (String)" Url="html/M_SavegamePro_SavegameSettings__ctor.htm" />
+          <HelpTOCNode Title="SavegameSettings Constructor (String, String)" Url="html/M_SavegamePro_SavegameSettings__ctor_1.htm" />
+          <HelpTOCNode Title="SavegameSettings Constructor (String, String, String)" Url="html/M_SavegamePro_SavegameSettings__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="f48017be-61fe-4a70-94e2-5133526d2891" Title="SavegameSettings Properties" Url="html/Properties_T_SavegamePro_SavegameSettings.htm">
+          <HelpTOCNode Title="FileExtension Property " Url="html/P_SavegamePro_SavegameSettings_FileExtension.htm" />
+          <HelpTOCNode Title="Filename Property " Url="html/P_SavegamePro_SavegameSettings_Filename.htm" />
+          <HelpTOCNode Title="Filepath Property " Url="html/P_SavegamePro_SavegameSettings_Filepath.htm" />
+          <HelpTOCNode Title="FullFilePath Property " Url="html/P_SavegamePro_SavegameSettings_FullFilePath.htm" />
+          <HelpTOCNode Title="WriteOnSave Property " Url="html/P_SavegamePro_SavegameSettings_WriteOnSave.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SavegameSettings Methods" Url="html/Methods_T_SavegamePro_SavegameSettings.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2405af40-e346-436a-b5de-b33657754f45" Title="SavegamePro.Components" Url="html/N_SavegamePro_Components.htm">
+      <HelpTOCNode Id="b9cb5dff-4a0e-4917-a750-dcc480148637" Title="SavegameController Class" Url="html/T_SavegamePro_Components_SavegameController.htm">
+        <HelpTOCNode Title="SavegameController Constructor " Url="html/M_SavegamePro_Components_SavegameController__ctor.htm" />
+        <HelpTOCNode Title="SavegameController Properties" Url="html/Properties_T_SavegamePro_Components_SavegameController.htm" />
+        <HelpTOCNode Id="fe188ddb-4a37-45d8-9b48-dde7a7519869" Title="SavegameController Methods" Url="html/Methods_T_SavegamePro_Components_SavegameController.htm">
+          <HelpTOCNode Title="Load Method " Url="html/M_SavegamePro_Components_SavegameController_Load.htm" />
+          <HelpTOCNode Title="Save Method " Url="html/M_SavegamePro_Components_SavegameController_Save.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c1d8247c-4f31-4ce0-a551-6110aacccb11" Title="SavegameController Fields" Url="html/Fields_T_SavegamePro_Components_SavegameController.htm">
+          <HelpTOCNode Title="loadKeyCode Field" Url="html/F_SavegamePro_Components_SavegameController_loadKeyCode.htm" />
+          <HelpTOCNode Title="savegameFilename Field" Url="html/F_SavegamePro_Components_SavegameController_savegameFilename.htm" />
+          <HelpTOCNode Title="saveKeyCode Field" Url="html/F_SavegamePro_Components_SavegameController_saveKeyCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="aee0bc46-9878-4bbf-9b42-2e55284807b2" Title="SavegamePro.Extensions" Url="html/N_SavegamePro_Extensions.htm">
+      <HelpTOCNode Id="741ae2d9-db2b-42a1-b3ce-42e027e6bf75" Title="SurrogateSelectorExtensions Class" Url="html/T_SavegamePro_Extensions_SurrogateSelectorExtensions.htm">
+        <HelpTOCNode Id="8e68d2f7-f545-45cf-b78e-d827d623a516" Title="SurrogateSelectorExtensions Methods" Url="html/Methods_T_SavegamePro_Extensions_SurrogateSelectorExtensions.htm">
+          <HelpTOCNode Title="CanSerialize Method " Url="html/M_SavegamePro_Extensions_SurrogateSelectorExtensions_CanSerialize.htm" />
+          <HelpTOCNode Title="HasSurrogate Method " Url="html/M_SavegamePro_Extensions_SurrogateSelectorExtensions_HasSurrogate.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6bacabdb-f064-4df5-a391-8556fb944038" Title="TypeExtensions Class" Url="html/T_SavegamePro_Extensions_TypeExtensions.htm">
+        <HelpTOCNode Id="9eeec9f9-5d25-4b21-8909-f2edc6b2bd05" Title="TypeExtensions Methods" Url="html/Methods_T_SavegamePro_Extensions_TypeExtensions.htm">
+          <HelpTOCNode Id="5cfd76e4-0e7e-4e28-a3c4-13733d791c6e" Title="CanBeSerialized Method " Url="html/Overload_SavegamePro_Extensions_TypeExtensions_CanBeSerialized.htm">
+            <HelpTOCNode Title="CanBeSerialized Method (FieldInfo)" Url="html/M_SavegamePro_Extensions_TypeExtensions_CanBeSerialized.htm" />
+            <HelpTOCNode Title="CanBeSerialized Method (PropertyInfo, ISurrogateSelector)" Url="html/M_SavegamePro_Extensions_TypeExtensions_CanBeSerialized_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="07b9e6c7-340e-4590-ba98-98536f7cd755" Title="ShouldBeSerialized Method " Url="html/Overload_SavegamePro_Extensions_TypeExtensions_ShouldBeSerialized.htm">
+            <HelpTOCNode Title="ShouldBeSerialized Method (FieldInfo)" Url="html/M_SavegamePro_Extensions_TypeExtensions_ShouldBeSerialized.htm" />
+            <HelpTOCNode Title="ShouldBeSerialized Method (PropertyInfo)" Url="html/M_SavegamePro_Extensions_TypeExtensions_ShouldBeSerialized_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="645cbb89-33b9-4efd-b64c-829bd01ad4aa" Title="SavegamePro.Surrogates" Url="html/N_SavegamePro_Surrogates.htm">
+      <HelpTOCNode Id="14d02516-8868-4f47-851a-d223f833bd1f" Title="DefaultSurrogate Class" Url="html/T_SavegamePro_Surrogates_DefaultSurrogate.htm">
+        <HelpTOCNode Id="48d929f2-0c3d-46a1-9296-4d2349fdc889" Title="DefaultSurrogate Constructor " Url="html/Overload_SavegamePro_Surrogates_DefaultSurrogate__ctor.htm">
+          <HelpTOCNode Title="DefaultSurrogate Constructor " Url="html/M_SavegamePro_Surrogates_DefaultSurrogate__ctor.htm" />
+          <HelpTOCNode Title="DefaultSurrogate Constructor (ISurrogateSelector)" Url="html/M_SavegamePro_Surrogates_DefaultSurrogate__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="774a4222-a991-4adc-ae3d-20a0af4d9230" Title="DefaultSurrogate Methods" Url="html/Methods_T_SavegamePro_Surrogates_DefaultSurrogate.htm">
+          <HelpTOCNode Title="GetObjectData Method " Url="html/M_SavegamePro_Surrogates_DefaultSurrogate_GetObjectData.htm" />
+          <HelpTOCNode Title="SetObjectData Method " Url="html/M_SavegamePro_Surrogates_DefaultSurrogate_SetObjectData.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="19880528-b2e0-4b28-83ab-21e64071c3f6" Title="DefaultSurrogate Fields" Url="html/Fields_T_SavegamePro_Surrogates_DefaultSurrogate.htm">
+          <HelpTOCNode Title="mySelector Field" Url="html/F_SavegamePro_Surrogates_DefaultSurrogate_mySelector.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b1403bcc-214d-4f06-af01-0b90dd364111" Title="QuaternionSurrogate Class" Url="html/T_SavegamePro_Surrogates_QuaternionSurrogate.htm">
+        <HelpTOCNode Title="QuaternionSurrogate Constructor " Url="html/M_SavegamePro_Surrogates_QuaternionSurrogate__ctor.htm" />
+        <HelpTOCNode Id="0006c26b-136e-49cf-8b47-6c1110f8ecfc" Title="QuaternionSurrogate Methods" Url="html/Methods_T_SavegamePro_Surrogates_QuaternionSurrogate.htm">
+          <HelpTOCNode Title="GetObjectData Method " Url="html/M_SavegamePro_Surrogates_QuaternionSurrogate_GetObjectData.htm" />
+          <HelpTOCNode Title="SetObjectData Method " Url="html/M_SavegamePro_Surrogates_QuaternionSurrogate_SetObjectData.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b46bd6af-c911-4d68-8afb-e6cc28cd6345" Title="UnitySurrogateSelector Class" Url="html/T_SavegamePro_Surrogates_UnitySurrogateSelector.htm">
+        <HelpTOCNode Title="UnitySurrogateSelector Constructor " Url="html/M_SavegamePro_Surrogates_UnitySurrogateSelector__ctor.htm" />
+        <HelpTOCNode Title="UnitySurrogateSelector Methods" Url="html/Methods_T_SavegamePro_Surrogates_UnitySurrogateSelector.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d65edcb0-bfd1-4757-b005-de56bf85ce82" Title="Vector2Surrogate Class" Url="html/T_SavegamePro_Surrogates_Vector2Surrogate.htm">
+        <HelpTOCNode Title="Vector2Surrogate Constructor " Url="html/M_SavegamePro_Surrogates_Vector2Surrogate__ctor.htm" />
+        <HelpTOCNode Id="815246be-63cc-44de-a2ab-b70f7bb4d288" Title="Vector2Surrogate Methods" Url="html/Methods_T_SavegamePro_Surrogates_Vector2Surrogate.htm">
+          <HelpTOCNode Title="GetObjectData Method " Url="html/M_SavegamePro_Surrogates_Vector2Surrogate_GetObjectData.htm" />
+          <HelpTOCNode Title="SetObjectData Method " Url="html/M_SavegamePro_Surrogates_Vector2Surrogate_SetObjectData.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9e257252-0235-487d-9cc9-d27f11a9cbe9" Title="Vector3Surrogate Class" Url="html/T_SavegamePro_Surrogates_Vector3Surrogate.htm">
+        <HelpTOCNode Title="Vector3Surrogate Constructor " Url="html/M_SavegamePro_Surrogates_Vector3Surrogate__ctor.htm" />
+        <HelpTOCNode Id="d9113368-7cdd-4560-bf61-bcea24ae2e1b" Title="Vector3Surrogate Methods" Url="html/Methods_T_SavegamePro_Surrogates_Vector3Surrogate.htm">
+          <HelpTOCNode Title="GetObjectData Method " Url="html/M_SavegamePro_Surrogates_Vector3Surrogate_GetObjectData.htm" />
+          <HelpTOCNode Title="SetObjectData Method " Url="html/M_SavegamePro_Surrogates_Vector3Surrogate_SetObjectData.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="91b4bc43-1600-4873-b6d1-f49792d9f6d2" Title="Vector4Surrogate Class" Url="html/T_SavegamePro_Surrogates_Vector4Surrogate.htm">
+        <HelpTOCNode Title="Vector4Surrogate Constructor " Url="html/M_SavegamePro_Surrogates_Vector4Surrogate__ctor.htm" />
+        <HelpTOCNode Id="ecdbf7a3-0745-4d81-b0d9-391df8c0096c" Title="Vector4Surrogate Methods" Url="html/Methods_T_SavegamePro_Surrogates_Vector4Surrogate.htm">
+          <HelpTOCNode Title="GetObjectData Method " Url="html/M_SavegamePro_Surrogates_Vector4Surrogate_GetObjectData.htm" />
+          <HelpTOCNode Title="SetObjectData Method " Url="html/M_SavegamePro_Surrogates_Vector4Surrogate_SetObjectData.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
